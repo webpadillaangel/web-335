@@ -1,0 +1,17 @@
+{
+  "user": {
+    "firstName": "Angel",
+    "lastName": "Padilla",
+    "birthDate": "09/19/1989",
+    "dependents": [
+      { "name": "Axel", "gender": "male" },
+      { "name": "Sara", "gender": "female" }
+    ],
+    "roles": [
+      { "Retail": "read" },
+      { "Support": "admin" },
+      { "IT": "admin" },
+      { "Finance": "none" }
+    ]
+  }
+}
